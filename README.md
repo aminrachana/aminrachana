@@ -27,7 +27,7 @@
 
 <div>
   
-  [![beartisan’s github stats](https://github-readme-stats.vercel.app/api?username=beartisan&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)](https://github.com/beartisan)
+  [![aminrachana’s github stats](https://github-readme-stats.vercel.app/api?username=aminrachana&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)](https://github.com/aminrachana)
   
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminrachana&" alt="aminrachana" />
@@ -42,7 +42,7 @@
 
 </div> -->
 <!--
-**beartisan/beartisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aminrachana/aminrachana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
