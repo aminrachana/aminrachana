@@ -6,7 +6,7 @@
   ### I am aminrachana
   <div id="badges">
     <a href="http://aminrachana.epizy.com/RachanaAmin_CMS/" target="_blank">
-      <img src="https://custom-icon-badges.demolab.com/badge/aminrachana-LaunchSite-blue.svg?logo=beartisan" alt="Website Badge"/></a>
+      <img src="https://custom-icon-badges.demolab.com/badge/aminrachana-LaunchSite-blue.svg?logo=aminrachana" alt="Website Badge"/></a>
     <a href="https://www.linkedin.com/in/rachana-amin-a5161424b/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
